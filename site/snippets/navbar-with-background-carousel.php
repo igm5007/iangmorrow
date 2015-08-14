@@ -16,7 +16,7 @@
 
 </head>
 
-<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<body id="page-top">
 
   <nav role="navigation" class="navbar navbar-custom navbar-fixed-top">
     <div class="container">
@@ -65,12 +65,12 @@
           </div>
           <div class="item">
               <!-- Set the second background image using inline CSS below. -->
-              <div class="fill" style="background-image:url('/assets/images/theDraftphone.jpg');"></div>
+              <div class="fill" style="background-image:url('/assets/images/ibisInUse.jpg');"></div>
 
           </div>
           <div class="item">
               <!-- Set the third background image using inline CSS below. -->
-              <div class="fill" style="background-image:url('/assets/images/theDraftphone.jpg');"></div>
+              <div class="fill" style="background-image:url('/assets/images/meterUser.jpg');"></div>
           </div>
       </div>
 

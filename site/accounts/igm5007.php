@@ -7,4 +7,9 @@ password: >
 language: en
 role: admin
 history:
+  - contact
+  - projects
   - home
+  - about
+firstname: Ian
+lastname: Morrow

@@ -1,8 +1,8 @@
-Title: Contact
+Title: contact
 
 ----
 
-Text:
+Text: 
 
 ## Get in touch
 

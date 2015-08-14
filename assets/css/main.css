@@ -1949,7 +1949,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 90%;
   }
 }
 
@@ -4673,7 +4673,7 @@ tbody.collapse.in {
 .navbar-brand {
   float: left;
   padding: 15px 15px;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 20px;
   height: 50px;
 }
@@ -14155,7 +14155,6 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin: 0 0 35px;
-  text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
@@ -14192,12 +14191,13 @@ a:hover, a:focus {
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
   background-color: #000;
 }
 .navbar-custom .navbar-brand {
-  font-weight: 700;
+  font-weight: 1000;
+  text-transform: uppercase;
 }
 .navbar-custom .navbar-brand:focus {
   outline: none;
@@ -14248,17 +14248,11 @@ a:hover, a:focus {
   }
 }
 .intro {
-  display: table;
-  width: 100%;
-  height: auto;
+  float:left;
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: #000 url(../images/theDraftphone.jpg) no-repeat scroll bottom center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background-color: #fff
 }
 .intro .intro-body {
   display: table-cell;

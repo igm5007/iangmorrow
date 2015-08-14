@@ -1,7 +1,7 @@
 <?php snippet('navbar-with-background-carousel') ?>
 
 
-  <!--<header class="intro">
+  <!--<div class="intro">
 
     <div class="intro-body">
         <div class="container">
@@ -14,7 +14,7 @@
         </div>
     </div>
 
-  </header>-->
+  </div>-->
 
 
-<?php snippet('footer') ?>
+<?php snippet('no-footer') ?>
